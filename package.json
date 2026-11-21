@@ -1,0 +1,29 @@
+{
+  "name": "potion-pour",
+  "version": "0.1.1",
+  "private": true,
+  "description": "Purr & Pour: puzzle de despejar poções num laboratório de alquimia, com Grimório de 60 poções e o gato Miso de ajudante. Jogo original do estúdio para Poki, CrazyGames, californiagames.io e Y8.",
+  "type": "module",
+  "config": {
+    "porta": 5470
+  },
+  "kit": {
+    "trocas": {},
+    "ids": {
+      "y8": {
+        "appId": "6b00dafbd3fca2df383889b7",
+        "gameId": "294567"
+      }
+    }
+  },
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "servir": "node tools/servir.mjs",
+    "lan": "node tools/servir.mjs --lan",
+    "empacotar": "npm test && node tools/empacotar.mjs --alvo=todos",
+    "verificar": "node tools/verificar-build.mjs --alvo=todos",
+    "grok": "node tools/grok.mjs",
+    "sprite": "node tools/sprite.mjs",
+    "medir": "node tools/medir.mjs"
+  }
+}

@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+<title>Purr &amp; Pour</title>
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="src/ui/kit.css">
+<link rel="stylesheet" href="src/ui/jogo.css">
+<!-- SDK do portal (a unica tag externa; o tools/empacotar.mjs troca a linha de baixo por alvo). -->
+<script src="/sdk/v1/plataforma-sdk.js"></script>
+</head>
+<body>
+<div id="carregando" role="status"><div class="carga"><img class="carga-gato" src="src/arte/gato/gato-01.webp" alt=""><div class="logo" data-t="titulo">Purr &amp; Pour</div><div class="barra"><i></i></div></div></div>
+<div id="palco"><canvas id="tela"></canvas></div>
+<div id="camada">
+  <div id="hud" class="hud">
+    <div id="hudFase" class="hud-fase"></div>
+    <div class="hud-meio">
+      <button id="btGrimorio" class="hud-livro" type="button" data-t-aria="grimorio"><img src="src/arte/icones/icone-01.webp" alt=""><span id="contaPocoes">0/60</span></button>
+      <div id="proxima" class="proxima" hidden><span class="proxima-rotulo" data-t="proxima">Next</span><img id="proximaImg" alt=""><span id="proximaTxt"></span></div>
+    </div>
+    <button id="btPausa" class="botao-icone hud-pausa" type="button" data-t-aria="pausa">❚❚</button>
+  </div>
+  <div id="dicaTexto" class="dica-texto" hidden></div>
+  <div id="toasts" class="toasts" aria-live="polite"></div>
+  <button id="btSeguir" class="botao forte seguir" type="button" data-t="seguir" hidden>Continue ▶</button>
+  <div id="barra" class="barra-ferr">
+    <button id="btDesfazer" class="ferr" type="button" data-t-aria="desfazer"><img src="src/arte/icones/icone-02.webp" alt=""><span class="selo" id="seloDesfazer">5</span></button>
+    <button id="btDica" class="ferr" type="button" data-t-aria="dica"><img src="src/arte/icones/icone-04.webp" alt=""></button>
+    <button id="btExtra" class="ferr" type="button" data-t-aria="extra"><img src="src/arte/icones/icone-03.webp" alt=""><span class="selo" id="seloExtra">+1</span></button>
+  </div>
+</div>
+<div id="menu" class="camada-ui" hidden>
+  <div class="painel" role="dialog" aria-modal="true" aria-labelledby="menuTitulo">
+    <h2 id="menuTitulo" data-t="pausa">Paused</h2>
+    <button id="btContinuar" class="botao forte" type="button" data-t="continuar">Continue</button>
+    <button id="btRecomecar" class="botao" type="button" data-t="recomecar">Restart level</button>
+    <button id="btSom" class="botao" type="button" aria-pressed="true" data-t="som">Sound</button>
+  </div>
+</div>
+<div id="painelExtra" class="camada-ui" hidden>
+  <div class="painel" role="dialog" aria-modal="true" aria-labelledby="extraTitulo">
+    <img class="painel-icone" src="src/arte/icones/icone-03.webp" alt="">
+    <h2 id="extraTitulo" data-t="extraTitulo">One more flask?</h2>
+    <p class="miudo" data-t="extraTexto"></p>
+    <button id="btExtraVideo" class="botao" type="button">One more flask</button>
+    <button id="btExtraRecomecar" class="botao mesma-cor" type="button" data-t="recomecar">Restart level</button>
+    <button id="btExtraFechar" class="botao fraco" type="button" data-t="continuar">Continue</button>
+  </div>
+</div>
+<div id="grimorio" class="camada-ui" hidden></div>
+<script type="module" src="src/main.js"></script>
+</body>
+</html>

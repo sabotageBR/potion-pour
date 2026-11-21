@@ -1,0 +1,246 @@
+[
+ {
+  "id": "cenario-torre-retrato",
+  "modo": "editar",
+  "aspecto": "9:16",
+  "imagens": [
+   "arte/escolhida/chave.jpg",
+   "arte/telas/tela-9x16.jpg"
+  ],
+  "prompt": "Use the first image only as the art style reference (same painting style, palette, outlines and lighting) and paint a brand new scene that fills the entire second image edge to edge. The scene: the inside of a cozy alchemist tower lab at night, dark plum stone wall, a round window with a crescent moon and stars, hanging bundles of dried herbs, a lantern and a few small candles at the far left and right edges. Tall portrait composition: two long empty wooden shelves cross the image, one at the middle and one near the bottom; the upper part shows the wall and a round window. The shelves are completely empty: no bottles, no flasks, no characters on them. Keep the center of the image calm, darker and low in detail so game pieces placed on top read clearly; decorations only near the edges. Style: cozy hand-painted storybook game art, soft gouache brush texture, chunky rounded shapes, thick dark plum outlines, warm amber candlelight from the upper left with a soft teal rim light, deep plum and indigo shadows, jewel-tone glowing liquids, clean readable silhouettes at small size. No text, no letters, no numbers, no logo, no watermark, no signature."
+ },
+ {
+  "id": "cenario-torre-paisagem",
+  "modo": "editar",
+  "aspecto": "16:9",
+  "imagens": [
+   "arte/escolhida/chave.jpg",
+   "arte/telas/tela-16x9.jpg"
+  ],
+  "prompt": "Use the first image only as the art style reference (same painting style, palette, outlines and lighting) and paint a brand new scene that fills the entire second image edge to edge. The scene: the inside of a cozy alchemist tower lab at night, dark plum stone wall, a round window with a crescent moon and stars, hanging bundles of dried herbs, a lantern and a few small candles at the far left and right edges. Wide landscape composition: one long empty wooden shelf crosses the lower middle of the image; the upper part shows the wall and windows. The shelves are completely empty: no bottles, no flasks, no characters on them. Keep the center of the image calm, darker and low in detail so game pieces placed on top read clearly; decorations only near the edges. Style: cozy hand-painted storybook game art, soft gouache brush texture, chunky rounded shapes, thick dark plum outlines, warm amber candlelight from the upper left with a soft teal rim light, deep plum and indigo shadows, jewel-tone glowing liquids, clean readable silhouettes at small size. No text, no letters, no numbers, no logo, no watermark, no signature."
+ },
+ {
+  "id": "cenario-porao-retrato",
+  "modo": "editar",
+  "aspecto": "9:16",
+  "imagens": [
+   "arte/escolhida/chave.jpg",
+   "arte/telas/tela-9x16.jpg"
+  ],
+  "prompt": "Use the first image only as the art style reference (same painting style, palette, outlines and lighting) and paint a brand new scene that fills the entire second image edge to edge. The scene: a cozy underground crystal cellar lab, dark indigo stone walls with glowing teal and purple crystals growing from the corners, a small arched window with moonlight, old wooden beams, a few candles at the edges. Tall portrait composition: two long empty wooden shelves cross the image, one at the middle and one near the bottom; the upper part shows the wall and a round window. The shelves are completely empty: no bottles, no flasks, no characters on them. Keep the center of the image calm, darker and low in detail so game pieces placed on top read clearly; decorations only near the edges. Style: cozy hand-painted storybook game art, soft gouache brush texture, chunky rounded shapes, thick dark plum outlines, warm amber candlelight from the upper left with a soft teal rim light, deep plum and indigo shadows, jewel-tone glowing liquids, clean readable silhouettes at small size. No text, no letters, no numbers, no logo, no watermark, no signature."
+ },
+ {
+  "id": "cenario-porao-paisagem",
+  "modo": "editar",
+  "aspecto": "16:9",
+  "imagens": [
+   "arte/escolhida/chave.jpg",
+   "arte/telas/tela-16x9.jpg"
+  ],
+  "prompt": "Use the first image only as the art style reference (same painting style, palette, outlines and lighting) and paint a brand new scene that fills the entire second image edge to edge. The scene: a cozy underground crystal cellar lab, dark indigo stone walls with glowing teal and purple crystals growing from the corners, a small arched window with moonlight, old wooden beams, a few candles at the edges. Wide landscape composition: one long empty wooden shelf crosses the lower middle of the image; the upper part shows the wall and windows. The shelves are completely empty: no bottles, no flasks, no characters on them. Keep the center of the image calm, darker and low in detail so game pieces placed on top read clearly; decorations only near the edges. Style: cozy hand-painted storybook game art, soft gouache brush texture, chunky rounded shapes, thick dark plum outlines, warm amber candlelight from the upper left with a soft teal rim light, deep plum and indigo shadows, jewel-tone glowing liquids, clean readable silhouettes at small size. No text, no letters, no numbers, no logo, no watermark, no signature."
+ },
+ {
+  "id": "cenario-estufa-retrato",
+  "modo": "editar",
+  "aspecto": "9:16",
+  "imagens": [
+   "arte/escolhida/chave.jpg",
+   "arte/telas/tela-9x16.jpg"
+  ],
+  "prompt": "Use the first image only as the art style reference (same painting style, palette, outlines and lighting) and paint a brand new scene that fills the entire second image edge to edge. The scene: an enchanted greenhouse lab at dusk, curved glass panes behind with a warm sunset sky turning to night, glowing leafy plants and hanging vines at the edges, wooden frames, fireflies. Tall portrait composition: two long empty wooden shelves cross the image, one at the middle and one near the bottom; the upper part shows the wall and a round window. The shelves are completely empty: no bottles, no flasks, no characters on them. Keep the center of the image calm, darker and low in detail so game pieces placed on top read clearly; decorations only near the edges. Style: cozy hand-painted storybook game art, soft gouache brush texture, chunky rounded shapes, thick dark plum outlines, warm amber candlelight from the upper left with a soft teal rim light, deep plum and indigo shadows, jewel-tone glowing liquids, clean readable silhouettes at small size. No text, no letters, no numbers, no logo, no watermark, no signature."
+ },
+ {
+  "id": "cenario-estufa-paisagem",
+  "modo": "editar",
+  "aspecto": "16:9",
+  "imagens": [
+   "arte/escolhida/chave.jpg",
+   "arte/telas/tela-16x9.jpg"
+  ],
+  "prompt": "Use the first image only as the art style reference (same painting style, palette, outlines and lighting) and paint a brand new scene that fills the entire second image edge to edge. The scene: an enchanted greenhouse lab at dusk, curved glass panes behind with a warm sunset sky turning to night, glowing leafy plants and hanging vines at the edges, wooden frames, fireflies. Wide landscape composition: one long empty wooden shelf crosses the lower middle of the image; the upper part shows the wall and windows. The shelves are completely empty: no bottles, no flasks, no characters on them. Keep the center of the image calm, darker and low in detail so game pieces placed on top read clearly; decorations only near the edges. Style: cozy hand-painted storybook game art, soft gouache brush texture, chunky rounded shapes, thick dark plum outlines, warm amber candlelight from the upper left with a soft teal rim light, deep plum and indigo shadows, jewel-tone glowing liquids, clean readable silhouettes at small size. No text, no letters, no numbers, no logo, no watermark, no signature."
+ },
+ {
+  "id": "gato-poses",
+  "modo": "editar",
+  "imagens": [
+   "arte/escolhida/chave.jpg"
+  ],
+  "prompt": "Using the cat character from the reference image (a chubby cream cat with ginger patches, big amber eyes, a tiny purple wizard hat with a gold star and a teal scarf), draw a 3x3 grid of 9 separate full-body poses of this same cat, evenly spaced, wide empty space between them, each one isolated on a perfectly flat solid green (#00FF00) background, no shadow, no gradient, no ground. Reading order: 1 sleeping curled up with closed eyes, 2 sitting calmly and smiling, 3 sitting and pointing to the right with one front paw, 4 jumping happily with both paws up, 5 surprised with very big eyes, 6 licking one paw, 7 yawning with eyes closed, 8 waving one paw hello, 9 thinking with a paw on its chin. Same size and same outfit in every pose. Style: cozy hand-painted storybook game art, soft gouache brush texture, chunky rounded shapes, thick dark plum outlines, warm amber candlelight from the upper left with a soft teal rim light, deep plum and indigo shadows, jewel-tone glowing liquids, clean readable silhouettes at small size. No text, no letters, no numbers, no logo, no watermark, no signature."
+ },
+ {
+  "id": "icones",
+  "modo": "editar",
+  "imagens": [
+   "arte/escolhida/chave.jpg"
+  ],
+  "prompt": "In the same art style as the reference image, draw a 3x3 grid of 9 separate game icons, evenly spaced, wide empty space between them, each one isolated on a perfectly flat solid magenta (#FF00FF) background, no shadow, no gradient, no ground. Reading order: 1 a thick old spellbook closed with a purple cover and a gold star on it, 2 a chunky curved golden arrow pointing back to the left (undo), 3 an empty glass test tube with a golden sparkle above it, 4 a cream cat paw print, 5 a golden padlock, 6 a round red wax seal stamped with a star, 7 a cork stopper, 8 a chunky light blue ice crystal block, 9 a small black iron tripod stand with three curly legs. Style: cozy hand-painted storybook game art, soft gouache brush texture, chunky rounded shapes, thick dark plum outlines, warm amber candlelight from the upper left with a soft teal rim light, deep plum and indigo shadows, jewel-tone glowing liquids, clean readable silhouettes at small size. No text, no letters, no numbers, no logo, no watermark, no signature."
+ },
+ {
+  "id": "enfeites-a",
+  "modo": "editar",
+  "imagens": [
+   "arte/escolhida/chave.jpg"
+  ],
+  "prompt": "In the same art style as the reference image, draw a 3x3 grid of 9 separate small decorations for an alchemist lab shelf, evenly spaced, wide empty space between them, each one isolated on a perfectly flat solid magenta (#FF00FF) background, no shadow, no gradient, no ground. Reading order: 1 a cluster of three melting candles, 2 a teal crystal ball on a little stand, 3 a potted plant with glowing leaves, 4 a wooden hourglass with golden sand, 5 a small stone owl statue, 6 a little brass telescope on a tripod, 7 a stack of three old books, 8 a glass jar of glowing mushrooms, 9 a small antique globe. Style: cozy hand-painted storybook game art, soft gouache brush texture, chunky rounded shapes, thick dark plum outlines, warm amber candlelight from the upper left with a soft teal rim light, deep plum and indigo shadows, jewel-tone glowing liquids, clean readable silhouettes at small size. No text, no letters, no numbers, no logo, no watermark, no signature."
+ },
+ {
+  "id": "enfeites-b",
+  "modo": "editar",
+  "imagens": [
+   "arte/escolhida/chave.jpg"
+  ],
+  "prompt": "In the same art style as the reference image, draw a 3x3 grid of 9 separate small decorations for an alchemist lab shelf, evenly spaced, wide empty space between them, each one isolated on a perfectly flat solid magenta (#FF00FF) background, no shadow, no gradient, no ground. Reading order: 1 a small round magic mirror with an ornate golden frame, 2 a feather quill in an inkpot, 3 a crescent moon shaped lamp, 4 a tiny black cauldron with green smoke, 5 a bundle of dried herbs tied with string, 6 a glass jar full of glowing fireflies, 7 a wooden stand holding a magic wand, 8 a big seashell, 9 a little potted cactus with a pink flower. Style: cozy hand-painted storybook game art, soft gouache brush texture, chunky rounded shapes, thick dark plum outlines, warm amber candlelight from the upper left with a soft teal rim light, deep plum and indigo shadows, jewel-tone glowing liquids, clean readable silhouettes at small size. No text, no letters, no numbers, no logo, no watermark, no signature."
+ },
+ {
+  "id": "pocoes-dragao",
+  "modo": "editar",
+  "aspecto": "16:9",
+  "imagens": [
+   "arte/escolhida/chave.jpg",
+   "arte/telas/tela-16x9.jpg"
+  ],
+  "prompt": "Use the first image only as the art style reference and paint on the second image a 3x2 grid of 6 separate small fantasy potion bottles, evenly spaced, wide empty space between them, each one isolated on a perfectly flat solid magenta (#FF00FF) background, no shadow, no gradient, no ground. Every bottle has a different shape: 1 a round flask with a cork, 2 a tall thin vial, 3 a heart-shaped bottle, 4 a square jar with a wax seal, 5 a star-shaped bottle, 6 a tiny pot-bellied bottle with a long neck. All six are filled with glowing ruby red liquid with tiny flames and ember sparks. No labels. Style: cozy hand-painted storybook game art, soft gouache brush texture, chunky rounded shapes, thick dark plum outlines, warm amber candlelight from the upper left with a soft teal rim light, deep plum and indigo shadows, jewel-tone glowing liquids, clean readable silhouettes at small size. No text, no letters, no numbers, no logo, no watermark, no signature."
+ },
+ {
+  "id": "pocoes-sereia",
+  "modo": "editar",
+  "aspecto": "16:9",
+  "imagens": [
+   "arte/escolhida/chave.jpg",
+   "arte/telas/tela-16x9.jpg"
+  ],
+  "prompt": "Use the first image only as the art style reference and paint on the second image a 3x2 grid of 6 separate small fantasy potion bottles, evenly spaced, wide empty space between them, each one isolated on a perfectly flat solid magenta (#FF00FF) background, no shadow, no gradient, no ground. Every bottle has a different shape: 1 a round flask with a cork, 2 a tall thin vial, 3 a heart-shaped bottle, 4 a square jar with a wax seal, 5 a star-shaped bottle, 6 a tiny pot-bellied bottle with a long neck. All six are filled with glowing sapphire blue liquid with tiny bubbles and a small seashell charm. No labels. Style: cozy hand-painted storybook game art, soft gouache brush texture, chunky rounded shapes, thick dark plum outlines, warm amber candlelight from the upper left with a soft teal rim light, deep plum and indigo shadows, jewel-tone glowing liquids, clean readable silhouettes at small size. No text, no letters, no numbers, no logo, no watermark, no signature."
+ },
+ {
+  "id": "pocoes-fada",
+  "modo": "editar",
+  "aspecto": "16:9",
+  "imagens": [
+   "arte/escolhida/chave.jpg",
+   "arte/telas/tela-16x9.jpg"
+  ],
+  "prompt": "Use the first image only as the art style reference and paint on the second image a 3x2 grid of 6 separate small fantasy potion bottles, evenly spaced, wide empty space between them, each one isolated on a perfectly flat solid magenta (#FF00FF) background, no shadow, no gradient, no ground. Every bottle has a different shape: 1 a round flask with a cork, 2 a tall thin vial, 3 a heart-shaped bottle, 4 a square jar with a wax seal, 5 a star-shaped bottle, 6 a tiny pot-bellied bottle with a long neck. All six are filled with glowing honey yellow liquid with golden sparkles and honey drips. No labels. Style: cozy hand-painted storybook game art, soft gouache brush texture, chunky rounded shapes, thick dark plum outlines, warm amber candlelight from the upper left with a soft teal rim light, deep plum and indigo shadows, jewel-tone glowing liquids, clean readable silhouettes at small size. No text, no letters, no numbers, no logo, no watermark, no signature."
+ },
+ {
+  "id": "pocoes-sapo",
+  "modo": "editar",
+  "aspecto": "16:9",
+  "imagens": [
+   "arte/escolhida/chave.jpg",
+   "arte/telas/tela-16x9.jpg"
+  ],
+  "prompt": "Use the first image only as the art style reference and paint on the second image a 3x2 grid of 6 separate small fantasy potion bottles, evenly spaced, wide empty space between them, each one isolated on a perfectly flat solid magenta (#FF00FF) background, no shadow, no gradient, no ground. Every bottle has a different shape: 1 a round flask with a cork, 2 a tall thin vial, 3 a heart-shaped bottle, 4 a square jar with a wax seal, 5 a star-shaped bottle, 6 a tiny pot-bellied bottle with a long neck. All six are filled with glowing frog green liquid with a tiny lily pad and little bubbles. No labels. Style: cozy hand-painted storybook game art, soft gouache brush texture, chunky rounded shapes, thick dark plum outlines, warm amber candlelight from the upper left with a soft teal rim light, deep plum and indigo shadows, jewel-tone glowing liquids, clean readable silhouettes at small size. No text, no letters, no numbers, no logo, no watermark, no signature."
+ },
+ {
+  "id": "pocoes-bruxa",
+  "modo": "editar",
+  "aspecto": "16:9",
+  "imagens": [
+   "arte/escolhida/chave.jpg",
+   "arte/telas/tela-16x9.jpg"
+  ],
+  "prompt": "Use the first image only as the art style reference and paint on the second image a 3x2 grid of 6 separate small fantasy potion bottles, evenly spaced, wide empty space between them, each one isolated on a perfectly flat solid green (#00FF00) background, no shadow, no gradient, no ground. Every bottle has a different shape: 1 a round flask with a cork, 2 a tall thin vial, 3 a heart-shaped bottle, 4 a square jar with a wax seal, 5 a star-shaped bottle, 6 a tiny pot-bellied bottle with a long neck. All six are filled with glowing amethyst purple liquid with tiny gold stars. No labels. Style: cozy hand-painted storybook game art, soft gouache brush texture, chunky rounded shapes, thick dark plum outlines, warm amber candlelight from the upper left with a soft teal rim light, deep plum and indigo shadows, jewel-tone glowing liquids, clean readable silhouettes at small size. No text, no letters, no numbers, no logo, no watermark, no signature."
+ },
+ {
+  "id": "pocoes-abobora",
+  "modo": "editar",
+  "aspecto": "16:9",
+  "imagens": [
+   "arte/escolhida/chave.jpg",
+   "arte/telas/tela-16x9.jpg"
+  ],
+  "prompt": "Use the first image only as the art style reference and paint on the second image a 3x2 grid of 6 separate small fantasy potion bottles, evenly spaced, wide empty space between them, each one isolated on a perfectly flat solid magenta (#FF00FF) background, no shadow, no gradient, no ground. Every bottle has a different shape: 1 a round flask with a cork, 2 a tall thin vial, 3 a heart-shaped bottle, 4 a square jar with a wax seal, 5 a star-shaped bottle, 6 a tiny pot-bellied bottle with a long neck. All six are filled with glowing pumpkin orange liquid with a tiny pumpkin stem cap and leaves. No labels. Style: cozy hand-painted storybook game art, soft gouache brush texture, chunky rounded shapes, thick dark plum outlines, warm amber candlelight from the upper left with a soft teal rim light, deep plum and indigo shadows, jewel-tone glowing liquids, clean readable silhouettes at small size. No text, no letters, no numbers, no logo, no watermark, no signature."
+ },
+ {
+  "id": "pocoes-unicornio",
+  "modo": "editar",
+  "aspecto": "16:9",
+  "imagens": [
+   "arte/escolhida/chave.jpg",
+   "arte/telas/tela-16x9.jpg"
+  ],
+  "prompt": "Use the first image only as the art style reference and paint on the second image a 3x2 grid of 6 separate small fantasy potion bottles, evenly spaced, wide empty space between them, each one isolated on a perfectly flat solid green (#00FF00) background, no shadow, no gradient, no ground. Every bottle has a different shape: 1 a round flask with a cork, 2 a tall thin vial, 3 a heart-shaped bottle, 4 a square jar with a wax seal, 5 a star-shaped bottle, 6 a tiny pot-bellied bottle with a long neck. All six are filled with glowing bubblegum pink liquid with tiny pastel rainbow swirls. No labels. Style: cozy hand-painted storybook game art, soft gouache brush texture, chunky rounded shapes, thick dark plum outlines, warm amber candlelight from the upper left with a soft teal rim light, deep plum and indigo shadows, jewel-tone glowing liquids, clean readable silhouettes at small size. No text, no letters, no numbers, no logo, no watermark, no signature."
+ },
+ {
+  "id": "pocoes-lagoa",
+  "modo": "editar",
+  "aspecto": "16:9",
+  "imagens": [
+   "arte/escolhida/chave.jpg",
+   "arte/telas/tela-16x9.jpg"
+  ],
+  "prompt": "Use the first image only as the art style reference and paint on the second image a 3x2 grid of 6 separate small fantasy potion bottles, evenly spaced, wide empty space between them, each one isolated on a perfectly flat solid magenta (#FF00FF) background, no shadow, no gradient, no ground. Every bottle has a different shape: 1 a round flask with a cork, 2 a tall thin vial, 3 a heart-shaped bottle, 4 a square jar with a wax seal, 5 a star-shaped bottle, 6 a tiny pot-bellied bottle with a long neck. All six are filled with glowing turquoise liquid with a tiny fish silhouette and water ripples. No labels. Style: cozy hand-painted storybook game art, soft gouache brush texture, chunky rounded shapes, thick dark plum outlines, warm amber candlelight from the upper left with a soft teal rim light, deep plum and indigo shadows, jewel-tone glowing liquids, clean readable silhouettes at small size. No text, no letters, no numbers, no logo, no watermark, no signature."
+ },
+ {
+  "id": "pocoes-nuvem",
+  "modo": "editar",
+  "aspecto": "16:9",
+  "imagens": [
+   "arte/escolhida/chave.jpg",
+   "arte/telas/tela-16x9.jpg"
+  ],
+  "prompt": "Use the first image only as the art style reference and paint on the second image a 3x2 grid of 6 separate small fantasy potion bottles, evenly spaced, wide empty space between them, each one isolated on a perfectly flat solid magenta (#FF00FF) background, no shadow, no gradient, no ground. Every bottle has a different shape: 1 a round flask with a cork, 2 a tall thin vial, 3 a heart-shaped bottle, 4 a square jar with a wax seal, 5 a star-shaped bottle, 6 a tiny pot-bellied bottle with a long neck. All six are filled with glowing milky white liquid with soft cloud wisps. No labels. Style: cozy hand-painted storybook game art, soft gouache brush texture, chunky rounded shapes, thick dark plum outlines, warm amber candlelight from the upper left with a soft teal rim light, deep plum and indigo shadows, jewel-tone glowing liquids, clean readable silhouettes at small size. No text, no letters, no numbers, no logo, no watermark, no signature."
+ },
+ {
+  "id": "pocoes-troll",
+  "modo": "editar",
+  "aspecto": "16:9",
+  "imagens": [
+   "arte/escolhida/chave.jpg",
+   "arte/telas/tela-16x9.jpg"
+  ],
+  "prompt": "Use the first image only as the art style reference and paint on the second image a 3x2 grid of 6 separate small fantasy potion bottles, evenly spaced, wide empty space between them, each one isolated on a perfectly flat solid magenta (#FF00FF) background, no shadow, no gradient, no ground. Every bottle has a different shape: 1 a round flask with a cork, 2 a tall thin vial, 3 a heart-shaped bottle, 4 a square jar with a wax seal, 5 a star-shaped bottle, 6 a tiny pot-bellied bottle with a long neck. All six are filled with glowing chocolate brown liquid with chocolate drips. No labels. Style: cozy hand-painted storybook game art, soft gouache brush texture, chunky rounded shapes, thick dark plum outlines, warm amber candlelight from the upper left with a soft teal rim light, deep plum and indigo shadows, jewel-tone glowing liquids, clean readable silhouettes at small size. No text, no letters, no numbers, no logo, no watermark, no signature."
+ },
+ {
+  "id": "pocoes-cacto",
+  "modo": "editar",
+  "aspecto": "16:9",
+  "imagens": [
+   "arte/escolhida/chave.jpg",
+   "arte/telas/tela-16x9.jpg"
+  ],
+  "prompt": "Use the first image only as the art style reference and paint on the second image a 3x2 grid of 6 separate small fantasy potion bottles, evenly spaced, wide empty space between them, each one isolated on a perfectly flat solid magenta (#FF00FF) background, no shadow, no gradient, no ground. Every bottle has a different shape: 1 a round flask with a cork, 2 a tall thin vial, 3 a heart-shaped bottle, 4 a square jar with a wax seal, 5 a star-shaped bottle, 6 a tiny pot-bellied bottle with a long neck. All six are filled with glowing lime green liquid with tiny cactus spines and a little flower. No labels. Style: cozy hand-painted storybook game art, soft gouache brush texture, chunky rounded shapes, thick dark plum outlines, warm amber candlelight from the upper left with a soft teal rim light, deep plum and indigo shadows, jewel-tone glowing liquids, clean readable silhouettes at small size. No text, no letters, no numbers, no logo, no watermark, no signature."
+ },
+ {
+  "id": "pocoes-corvo",
+  "modo": "editar",
+  "aspecto": "16:9",
+  "imagens": [
+   "arte/escolhida/chave.jpg",
+   "arte/telas/tela-16x9.jpg"
+  ],
+  "prompt": "Use the first image only as the art style reference and paint on the second image a 3x2 grid of 6 separate small fantasy potion bottles, evenly spaced, wide empty space between them, each one isolated on a perfectly flat solid magenta (#FF00FF) background, no shadow, no gradient, no ground. Every bottle has a different shape: 1 a round flask with a cork, 2 a tall thin vial, 3 a heart-shaped bottle, 4 a square jar with a wax seal, 5 a star-shaped bottle, 6 a tiny pot-bellied bottle with a long neck. All six are filled with smoky dark charcoal gray liquid with a small black feather charm and silver sparkles. No labels. Style: cozy hand-painted storybook game art, soft gouache brush texture, chunky rounded shapes, thick dark plum outlines, warm amber candlelight from the upper left with a soft teal rim light, deep plum and indigo shadows, jewel-tone glowing liquids, clean readable silhouettes at small size. No text, no letters, no numbers, no logo, no watermark, no signature."
+ },
+ {
+  "id": "textura-madeira",
+  "modo": "gerar",
+  "aspecto": "1:1",
+  "prompt": "Seamless texture of warm honey-brown wooden planks seen from the front, hand-painted gouache, soft grain lines, a few knots, even lighting, no objects, fills the whole image. Style: cozy hand-painted storybook game art, soft gouache brush texture, chunky rounded shapes, thick dark plum outlines, warm amber candlelight from the upper left with a soft teal rim light, deep plum and indigo shadows, jewel-tone glowing liquids, clean readable silhouettes at small size. No text, no letters, no numbers, no logo, no watermark, no signature."
+ },
+ {
+  "id": "textura-papel",
+  "modo": "gerar",
+  "aspecto": "1:1",
+  "prompt": "Seamless texture of old cream parchment paper for a spellbook page, hand-painted gouache, soft stains and fibers, even lighting, no drawings, fills the whole image. Style: cozy hand-painted storybook game art, soft gouache brush texture, chunky rounded shapes, thick dark plum outlines, warm amber candlelight from the upper left with a soft teal rim light, deep plum and indigo shadows, jewel-tone glowing liquids, clean readable silhouettes at small size. No text, no letters, no numbers, no logo, no watermark, no signature."
+ },
+ {
+  "id": "capa-16x9",
+  "modo": "editar",
+  "aspecto": "16:9",
+  "imagens": [
+   "arte/escolhida/chave.jpg",
+   "arte/telas/tela-16x9.jpg"
+  ],
+  "prompt": "Use the first image as the reference for the characters, objects and style and repaint the same scene as a wide banner filling the entire second image: the chubby cream cat in the purple wizard hat on the right half, glowing layered test tubes and one tube pouring a ribbon of glowing liquid into another in the center right, candles and the moonlit window behind. Keep the left 40% of the image as a calm dark plum wall with soft glow, nothing important there. Style: cozy hand-painted storybook game art, soft gouache brush texture, chunky rounded shapes, thick dark plum outlines, warm amber candlelight from the upper left with a soft teal rim light, deep plum and indigo shadows, jewel-tone glowing liquids, clean readable silhouettes at small size. No text, no letters, no numbers, no logo, no watermark, no signature."
+ },
+ {
+  "id": "capa-9x16",
+  "modo": "editar",
+  "aspecto": "9:16",
+  "imagens": [
+   "arte/escolhida/chave.jpg",
+   "arte/telas/tela-9x16.jpg"
+  ],
+  "prompt": "Use the first image as the reference for the characters, objects and style and repaint the same scene as a tall poster filling the entire second image: glowing layered test tubes on a shelf with one tube pouring a ribbon of glowing liquid into another in the middle, the chubby cream cat in the purple wizard hat in the lower part looking up excited, candles around. Keep the top 30% of the image as a calm dark plum night sky with a few stars, nothing important there. Style: cozy hand-painted storybook game art, soft gouache brush texture, chunky rounded shapes, thick dark plum outlines, warm amber candlelight from the upper left with a soft teal rim light, deep plum and indigo shadows, jewel-tone glowing liquids, clean readable silhouettes at small size. No text, no letters, no numbers, no logo, no watermark, no signature."
+ }
+]

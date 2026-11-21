@@ -1,0 +1,8 @@
+[
+  { "nome": "fase-21-gelo-rolha", "tamanho": "paisagem", "params": "novo&lang=en&fase=21&pocoes=26", "esperar": 3200, "js": "__jogo.avancar(3)" },
+  { "nome": "grimorio", "tamanho": "retrato", "params": "novo&lang=en&fase=16&pocoes=23", "esperar": 3000, "js": "__jogo.abrirGrimorio(); document.querySelector('.livro-aba').click()" },
+  { "nome": "fase-32-caldeirao", "tamanho": "paisagem", "params": "novo&lang=en&fase=32&pocoes=41", "esperar": 3200, "js": "__jogo.avancar(6)" },
+  { "nome": "fase-6", "tamanho": "retrato", "params": "novo&lang=en&fase=6&pocoes=5", "esperar": 3200, "js": "__jogo.avancar(3)" },
+  { "nome": "fase-27-estufa", "tamanho": "paisagem", "params": "novo&lang=en&fase=27&pocoes=34", "esperar": 3200, "js": "__jogo.avancar(5)" },
+  { "nome": "fase-19-porao", "tamanho": "retrato", "params": "novo&lang=en&fase=19&pocoes=22", "esperar": 3200, "js": "__jogo.avancar(4)" }
+]
